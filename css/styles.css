@@ -1,8 +1,10 @@
 #output {
-  margin-top: 10vh;
+  margin-bottom: 10vh;
   font-size: 4em;
   text-align: center;
   background-color: white;
+  border: 1px solid red;
+  min-height: 1.5em;
 }
 
 .calculator {
@@ -16,4 +18,9 @@
 
 .calculator h1 {
   text-align: center;
+}
+
+button.btn {
+  display: block;
+  margin: auto;
 }
