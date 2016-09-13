@@ -2,7 +2,7 @@
 
 ####A simple calculator using JavaScript.
 
-####By Charlie Baxter and Bo Zhao####
+####By Stephanie Gurung and Matt Wilkin####
 
 ## Description
 
@@ -13,15 +13,10 @@ This is a simple calculator that takes two variables from the user and does diff
 * _Clone this repository_
 * _Open index.html in a web browser_
 
-
-## Known Bugs
-
-## Support and contact details
-
 ## Technologies Used
 
 JavaScript and HTML
 
 ### License
 
-Copyright (c) 2016 **_Charlie Baxter & Bo Zhao_**
+Copyright (c) 2016 **_Stephanie Gurung & Matt Wilkin_**
